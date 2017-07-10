@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 475 475" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g>
+        <path d="M440.632,97.439C440.306,91.708 436.146,86.922 430.515,85.79C330.787,65.828 245.64,3.124 244.8,2.498C240.295,-0.859 234.11,-0.832 229.633,2.578C226.275,5.132 146.248,65.333 44.012,85.796C38.379,86.923 34.221,91.714 33.891,97.446C25.699,240.849 92.982,344.009 150.871,405.291C172.595,428.296 192.98,445.301 206.257,455.512C213.874,461.367 220.026,465.668 223.842,468.245C230.969,473.065 233.02,474.445 236.952,474.516C237.116,474.522 237.277,474.522 237.433,474.522C241.313,474.522 243.654,472.957 249.827,468.82C253.17,466.576 258.585,462.84 265.331,457.736C277.084,448.864 295.256,434.095 315.11,414.106C352.411,376.557 382.107,334.746 403.36,289.842C431.938,229.481 444.479,164.748 440.632,97.439Z" style="fill:rgb(74,175,255);fill-rule:nonzero;"/>
+        <g transform="matrix(10.9015,0,0,10.9015,-4839.06,-2575.13)">
+            <text x="450.813px" y="261.189px" style="font-family:'SFMono-Bold', 'SF Mono', monospace;font-weight:700;font-stretch:extra-condensed;font-size:16px;fill:white;">&lt;/&gt;</text>
+        </g>
+    </g>
+</svg>
