@@ -15,11 +15,13 @@ The WebDev Guild was started to help teach basic to advanced programming princip
   - [ ] [HTML](apprentice/html)
   - [ ] [CSS](apprentice/css)
   - [ ] [JavaScript](apprentice/javascript)
+  - [ ] [Project](apprentice/project)
 - Journeyman
   - [ ] [WebDev](journeyman/webdev)
   - [ ] [CSS](journeyman/css)
   - [ ] [JavaScript](journeyman/javascript)
   - [ ] [Node](journeyman/node)
+  - [ ] [Project](journeyman/project)
 - Master
   - [ ] [React](master/react)
   - [ ] [GraphQL](master/graphql)
@@ -49,6 +51,8 @@ You are actively applying your knowledge to produce quality code in new and crea
 
 ### Master 🔥
 You have mastered the fundamental and advanced concepts of this skill and you are very skilled in its application. You often mentor and teach others in skills. You will be qualified to work on large-scale projects with complicated architectures or creative projects with uncommon tools. You must have previously completed all Journeyman badges and have created a Masterpiece to earn the Master rank.
+
+To advance in ranks, you must demonstrate your ability in all of the badges by completing a project. For Apprentice and Journeyman level ranks, the project is assigned to you. For the master level, you will work with your mentor to come up with a masterpiece project that will be both challenging and rewarding. 
 
 -----
 

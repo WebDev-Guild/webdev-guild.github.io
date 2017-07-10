@@ -4,3 +4,4 @@
   - [ ] [HTML](html)
   - [ ] [CSS](css)
   - [ ] [JavaScript](javascript)
+  - [ ] [Project](project)
