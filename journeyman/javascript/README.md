@@ -9,6 +9,7 @@
 ## Requirements
 
 - [ ] [ES6](#)
+- [ ] [ESLint & JavaScript Tooling](#)
 - [ ] [Functional JavaScript](#)
 - [ ] [JavaScript Practice](#)
 
