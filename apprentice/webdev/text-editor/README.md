@@ -29,7 +29,17 @@ As a web developer, you will be spending most of your time in a text editor. The
 | Tabs  | If you're working on more than one file at once, are you going to open a new window for each file? No need to! With tabs you can view as many files in one window as you want and each file will be opened in a separate tab. |
 | Code block highlighting | The more complex your code, the harder it will be to keep track of. With code block highlighting, the code editor informs you where a block of code begins and where it ends.  |
 
+- Search for good fonts for programming. 
+- Search for good syntax hiliting coloring schemes.
+
 ## Assignments
+
+* Pick a text editor that you like and install it on your computer.
+* Understand the configuration options. 
+* Install a few packages to improve your text editor.
+* Install a good font and configure your text editor to use it.
+* Install a syntax hiliting coloring scheme and configure your text editor to use it.
+* Show your mentor your setup. Take screenshots, have a vide chat, or show them IRL.
 
 ## Extra Learning
 

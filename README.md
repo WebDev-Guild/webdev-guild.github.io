@@ -52,6 +52,8 @@ You are actively applying your knowledge to produce quality code in new and crea
 ### Master 🔥
 You have mastered the fundamental and advanced concepts of this skill and you are very skilled in its application. You often mentor and teach others in skills. You will be qualified to work on large-scale projects with complicated architectures or creative projects with uncommon tools. You must have previously completed all Journeyman badges and have created a Masterpiece to earn the Master rank.
 
+The badges provide suggested and required learning resources, assignments, and additional learning. Students are also encouraged to use search engines and resources like [StackOverflow](https://stackoverflow.com) to find answers to their questions. Mentors are also available to answer questions, but students are encouraged to find their own answers.
+
 To advance in ranks, you must demonstrate your ability in all of the badges by completing a project. For Apprentice and Journeyman level ranks, the project is assigned to you. For the master level, you will work with your mentor to come up with a masterpiece project that will be both challenging and rewarding. 
 
 -----
