@@ -13,7 +13,7 @@ Read the intro: [Wanted: Curious Learners](intro.md)
 ## Badges
 
 - Apprentice
-  - [ ] [WebDev](apprentice/webdev)
+  - [ ] [WebDev](apprentice/webdev) *Start Here*
   - [ ] [HTML](apprentice/html)
   - [ ] [CSS](apprentice/css)
   - [ ] [JavaScript](apprentice/javascript)
