@@ -1,5 +1,5 @@
 # Apprentice WebDev Badge
-
+ 
 ## Goals
 
 - Understand basic principles for safely browsing the web

@@ -4,6 +4,8 @@
 
 Git has changed the way that programmers write code forever. It provides you with a repository of all of the changes to your project over time, so you can easily go back in time to older code. You can also use Git to collaborate on the same code with other developers. Finally, services like GitHub provide extra features like Pull Requests and Issue Tracking to make large-scale collaborative projects super easy.
 
+*It might be helpful to do the [terminal](../terminal) badge first*
+
 ## Suggested Learning
 
 - Do the Git practice activity at [try.github.io](https://try.github.io/levels/1/challenges/1)
