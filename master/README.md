@@ -1,9 +1,9 @@
 # Master Rank Badges
 
-  - [ ] [React](react)
-  - [ ] [GraphQL](graphql)
-  - [ ] [Databases](databases)
-  - [ ] [The Cloud](cloud)
-  - [ ] [IOT](iot)
-  - [ ] [ThreeJS](threejs)
-  - [ ] [Masterpiece](masterpiece)
+  - [ ] [React](react.md)
+  - [ ] [GraphQL](graphql.md)
+  - [ ] [Databases](databases.md)
+  - [ ] [The Cloud](cloud.md)
+  - [ ] [IOT](iot.md)
+  - [ ] [ThreeJS](threejs.md)
+  - [ ] [Masterpiece](masterpiece.md)

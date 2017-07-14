@@ -1,7 +1,7 @@
 # Apprentice Rank Badges
 
-  - [ ] [WebDev](webdev) *Start here*
-  - [ ] [HTML](html)
-  - [ ] [CSS](css)
-  - [ ] [JavaScript](javascript)
-  - [ ] [Project](project)
+  - [ ] [WebDev](webdev.md) *Start here*
+  - [ ] [HTML](html.md)
+  - [ ] [CSS](css.md)
+  - [ ] [JavaScript](javascript.md)
+  - [ ] [Project](project.md)
