@@ -7,7 +7,7 @@
 
 ## Requirements
 
-- [ ] [SQL Databases](#)
-- [ ] [NoSQL Databases](#)
+- [ ] [SQL Databases](databases/sql.md)
+- [ ] [NoSQL Databases](databases/nosql.md)
 
 *Work In Progress*

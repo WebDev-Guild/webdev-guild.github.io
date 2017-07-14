@@ -10,10 +10,10 @@
 
 ## Requirements
 
-- [ ] [GraphQL Intro](#)
-- [ ] [Schemas](#)
-- [ ] [GraphQL Client](#)
-- [ ] [GraphQL Server](#)
-- [ ] [GraphQL Subscriptions](#)
+- [ ] [GraphQL Intro](graphql/intro.md)
+- [ ] [Schemas](graphql/schemas.md)
+- [ ] [GraphQL Client](graphql/client.md)
+- [ ] [GraphQL Server](graphql/server.md)
+- [ ] [GraphQL Subscriptions](graphql/subscriptions.md)
 
 *Work In Progress*

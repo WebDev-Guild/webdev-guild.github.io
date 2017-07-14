@@ -9,8 +9,8 @@
 
 ## Requirements
 
-- [ ] [Raspberry Pi](#)
-- [ ] [IFTTT](#)
-- [ ] [NodeRed](#)
+- [ ] [Raspberry Pi](iot/raspberry-pi.md)
+- [ ] [IFTTT](iot/ifttt.md)
+- [ ] [NodeRed](iot/nodered.md)
 
 *Work In Progress*

@@ -13,25 +13,25 @@ Read the intro: [Wanted: Curious Learners](intro.md)
 ## Badges
 
 - Apprentice
-  - [ ] [WebDev](apprentice/webdev) *Start Here*
-  - [ ] [HTML](apprentice/html)
-  - [ ] [CSS](apprentice/css)
-  - [ ] [JavaScript](apprentice/javascript)
-  - [ ] [Project](apprentice/project)
+  - [ ] [WebDev](apprentice/webdev.md) *Start Here*
+  - [ ] [HTML](apprentice/html.md)
+  - [ ] [CSS](apprentice/css.md)
+  - [ ] [JavaScript](apprentice/javascript.md)
+  - [ ] [Project](apprentice/project.md)
 - Journeyman
-  - [ ] [WebDev](journeyman/webdev)
-  - [ ] [CSS](journeyman/css)
-  - [ ] [JavaScript](journeyman/javascript)
-  - [ ] [Node](journeyman/node)
-  - [ ] [Project](journeyman/project)
+  - [ ] [WebDev](journeyman/webdev.md)
+  - [ ] [CSS](journeyman/css.md)
+  - [ ] [JavaScript](journeyman/javascript.md)
+  - [ ] [Node](journeyman/node.md)
+  - [ ] [Project](journeyman/project.md)
 - Master
-  - [ ] [React](master/react)
-  - [ ] [GraphQL](master/graphql)
-  - [ ] [Databases](master/databases)
-  - [ ] [The Cloud](master/cloud)
-  - [ ] [IOT](master/iot)
-  - [ ] [ThreeJS](master/threejs)
-  - [ ] [Masterpiece](master/masterpiece)
+  - [ ] [React](master/react.md)
+  - [ ] [GraphQL](master/graphql.md)
+  - [ ] [Databases](master/databases.md)
+  - [ ] [The Cloud](master/cloud.md)
+  - [ ] [IOT](master/iot.md)
+  - [ ] [ThreeJS](master/threejs.md)
+  - [ ] [Masterpiece](master/masterpiece.md)
 
 Want to get started? [Contact a Mentor!](#mentors)
 

@@ -1,6 +1,6 @@
 # Journeyman Rank Badges
 
-  - [ ] [WebDev](webdev)
-  - [ ] [CSS](css)
-  - [ ] [JavaScript](javascript)
-  - [ ] [Node](node)
+  - [ ] [WebDev](webdev.md)
+  - [ ] [CSS](css.md)
+  - [ ] [JavaScript](javascript.md)
+  - [ ] [Node](node.md)
