@@ -9,6 +9,7 @@
 
 ## Requirements
 
+- [ ] [Text Editor](#)
 - [ ] [HTTP APIs](#)
 - [ ] [SVG](#)
 - [ ] [DOM API](#)

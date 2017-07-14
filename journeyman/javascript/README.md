@@ -11,6 +11,7 @@
 
 - [ ] [ES6](#)
 - [ ] [ESLint & JavaScript Tooling](#)
+- [ ] [Code Quality with Flow](#)
 - [ ] [Functional JavaScript](#)
 - [ ] [JavaScript Testing](#)
 - [ ] [JavaScript Practice](#)
