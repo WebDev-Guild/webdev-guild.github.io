@@ -8,8 +8,8 @@ Git has changed the way that programmers write code forever. It provides you wit
 
 ## Glossary
 
-- **Git** - A software development tool for keeping track of software versions. Can be used for code collaboration
-- **commit** - A snapshot of changes to code at a given time. Commits are identified with a unique hash of the changes. With Git, it is possible to reverse and playback changes to files to go back to older (or different) versions of a file
+- **Git** - A software development tool for keeping track of software versions. Can be used for code collaboration.
+- **commit** - A snapshot of changes to code at a given time. Commits are identified with a unique hash of the changes. With Git, it is possible to reverse and playback changes to files to go back to older (or different) versions of a file.
 - **repository** or **repo** - All of the code for your project, including all commits back to the very first commit.
 - **tag** - A named commit. 
 - **branch** - By going back to a previous commit, it is possible to change the code in different directions. For example, one person could branch to create a search form, while another developer creates a branch for the contact form. The code in these two branches is different.
@@ -20,16 +20,16 @@ Git has changed the way that programmers write code forever. It provides you wit
 - **remote** - A git repository on another computer. It is possible to push and pull code from a remote.
 - **fetch** - Getting information about the branches and tags on a remote.
 - **push** - Sending a branch from your local repository to a branch on a connected remote. 
-- **pull** - Fetching and merging a branch on a remote to your local repository
+- **pull** - Fetching and merging a branch on a remote to your local repository.
 - **clone** - Creating a new local repository from a remote repository. Cloning downloads the entire git history and makes it available to you locally.
 
 There are also a number of terms specific to GitHub:
 
-- **GitHub** - a third-party git repository hosting service
-- **fork** - creating a new remote repository on GitHub from an existing repository
-- **issue** - A comment on a git repository, typically for reporting bugs or requesting features
-- **pull request** - Making a request to the repository owner to pull from your branch or repo into the master branch
-- **release** - A special tag indicating a new version of the project
+- **GitHub** - a third-party git repository hosting service.
+- **fork** - creating a new remote repository on GitHub from an existing repository.
+- **issue** - A comment on a git repository, typically for reporting bugs or requesting features.
+- **pull request** - Making a request to the repository owner to pull from your branch or repo into the master branch.
+- **release** - A special tag indicating a new version of the project.
 
 ## Suggested Learning
 
