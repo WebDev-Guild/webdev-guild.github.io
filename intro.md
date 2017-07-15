@@ -4,11 +4,11 @@ Web development is a pretty comprehensive topic. Unlike other programming practi
 
 You aren't going to get good overnight. In fact, it will take months and years of study, practice, and experience to become truly capable. You might feel like there is always something more to learn, and you'd be right! Developers are always coming up with new ways to develop for the web, hoping it will become the next big thing.
 
-You might feel like you have to learn everything overnight. That's a normal feeling, but not necessary. In fact, if you try learning too much at once, you might get overwhelmed and give up, and that's the worst thing you can do. Instead, take your learning in byte-sized chunks. Get good at the foundational stuff, then try out some more stuff to see what you like. Eventually, you'll find tools and methods that you really enjoy working with which you can focus your studies on.
+You might feel like you have to learn everything overnight. That's a normal feeling.  Learning everying overnight is not necessary. In fact, if you try learning too much at once, you might get overwhelmed and give up, and that's the worst thing that can happen. Instead, take your learning in byte-sized chunks. Get good at the foundational stuff, then try out some more stuff to see what you like. Eventually, you'll find tools and methods that you really enjoy working with which you can focus your studies on.  Everyone has different methods of learning, and everyone enjoys learning different things.  Find what works best for you.
 
-That's the purpose of the Webdev Guild Advancement program. Here, you will find resources and guides on every topic necessary to get started in web development. The hope is that as you learn and get a taste of what is possible, your curiosity will keep you learning and improving.
+That's the purpose of the Webdev Guild Advancement program. Here, you will find resources and guides on every topic necessary to get started in web development. The hope is that as you learn and get a taste of what is possible, your curiosity will keep you learning, improving, and growing.
 
-Chris Pearce recently wrote about [how Webdev is an all-encompasing process](https://medium.com/fed-or-dead/javascript-really-is-overtaking-the-world-5b59b5af41ed). He mentioned things that good front end web developers should be good at:
+Chris Pearce recently wrote about [how Webdev is an all-encompasing process](https://medium.com/fed-or-dead/javascript-really-is-overtaking-the-world-5b59b5af41ed). In it he mentions a list of things that good front end web developers should know which I hope you will be eager to learn:
 > To end, here’s a list of skills, characteristics, disciplines, et cetera, that I think an experienced front end developer should have:
 > - Can write semantic HTML including technologies that extend HTML to make it more machine-readable, for example: WAI-ARIA, Microdata.
 > - Can write CSS at scale.
