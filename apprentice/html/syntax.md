@@ -8,6 +8,7 @@ This badge is fairly simple - learn the language and structure of an HTML docume
 
 ## Suggested Learning
 
+- [Anatomy of an HTML Element](https://codepen.io/var-bin/pen/bWQKGW)
 - [Syntax Basics](http://marksheet.io/html-syntax.html)
 - [Best Practices](https://www.w3schools.com/html/html5_syntax.asp) - A list of good and bad ways to write HTML.
 
