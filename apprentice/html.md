@@ -12,5 +12,6 @@
 - [ ] [HTML Tags](html/tags.md)
 - [ ] [Forms](html/forms.md)
 - [ ] [Markup (Classes & IDs)](html/markup.md)
+- [ ] [Folder Structure](html/folder-structure.md)
 
 *Work In Progress*
