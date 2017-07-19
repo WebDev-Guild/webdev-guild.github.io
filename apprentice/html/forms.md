@@ -7,6 +7,7 @@ HTML is really good at displaying content, but it can also accept content too. I
 ## Suggested Learning
 
 - [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
+
 ## Assignments
 
 - Create an HTML page with a form. Include the following:
@@ -25,3 +26,5 @@ HTML is really good at displaying content, but it can also accept content too. I
 - Show your work to your mentor to pass this requirement off
 
 ## Extra Learning
+
+- [The complete guide to HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
