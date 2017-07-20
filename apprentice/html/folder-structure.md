@@ -13,5 +13,26 @@ Navigation on HTML pages is usually done with the folder structure. Understandin
 ## Assignments
 
 - Create a webpage with the following structure:
-  
+```
+.
+├── about.html
+├── images
+│   └── myimage.png - pick whatever image you want
+├── index.html
+└── posts
+    ├── index.html
+    └── my-post.html
+```
+
+- Create the following connections between the files
+  - ./index.html should have relative links to about.html and posts/index.html. The link to posts/index.html should not include `index.html` in the link.
+  - ./index.html should have an absolute link to an image (use an `<img>` tag)
+  - posts/index.html should have a relative link to my-post.html
+  - my-post.html should link to index.html and posts/index.html with a relative link
+  - about.html should have an absolute link to ./index.html and my-post.html
+  - Include 1 image from another website (use an `<img>` tag)
+
+- Provide content on all of the HTML pages (use [Lorem Ipsum](http://www.lipsum.com) to generate content).
+- Show you work to your mentor to pass off the requirement.
+
 ## Extra Learning
