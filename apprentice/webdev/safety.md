@@ -15,7 +15,7 @@
     - Be a Selective Sharer. These days, there are a lot of opportunities to share our personal information online. Just be cautious about what you share, particularly when it comes to your identity information. This can potentially be used to impersonate you, or guess your passwords and logins. 
     - Keep your guard up. Always be cautious about what you do online, which sites you visit, and what you share. Use comprehensive security software, and make sure to backup your data on a regular basis in case something goes wrong. By taking preventative measures, you can save yourself from headaches later on.
 
-## Assignments
+## Requirements
 
 - Contact your mentor and summarize these principles
 - Pledge to follow these principles to keep yourself and others safe online.
