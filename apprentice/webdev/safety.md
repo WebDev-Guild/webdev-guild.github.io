@@ -2,10 +2,10 @@
 
 ## Required Learning
 
-- Read the following points on web safety (taken from the [New York Public Library](https://www.nypl.org/help/about-nypl/legal-notices/internet-safety-tips)) Note: These points are focused at minors, but apply to anyone on the internet. 
+- Read the following points on web safety (taken and adapted from the [New York Public Library](https://www.nypl.org/help/about-nypl/legal-notices/internet-safety-tips)) Note: These points are focused at minors, but apply to anyone on the internet. 
     - Personal Information. Don’t give out personal information without your parents’ permission. This means you should not share your last name, home address, school name, or telephone number. Remember, just because someone asks for information about you does not mean you have to tell them anything about yourself.
     - Screen Name. When creating your screen name, do not include personal information like your last name or date of birth.
-    - Passwords. Don’t share your password with anyone but your parents. When you use a public computer make sure you logout of the accounts you’ve accessed before leaving the terminal. [Do not save your passwords on public computers either.]
+    - Passwords. Don’t share your password with anyone but your parents. When you use a public computer make sure you logout of the accounts you’ve accessed before leaving the terminal. Do not save your passwords on public computers either.
     - Photos. Don’t post photos or videos online without getting your parents’ permission.
     - Online Friends. Don’t agree to meet an online friend unless you have your parents’ permission. Unfortunately, sometimes people pretend to be people they aren't. Remember that not everything you read online is true.
     - Online Ads. Don’t buy anything online without talking to your parents first. Some ads may try to trick you by offering free things or telling you that you have won something as a way of collecting your personal information.

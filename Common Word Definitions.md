@@ -10,7 +10,7 @@ Back End Developer
 
 ##C
 Componentised
-CLI - Command Line Interfac2qq2q2222q2222qq221111121221222223333334e
+CLI - Command Line Interface
 
 ##D
 DOM
