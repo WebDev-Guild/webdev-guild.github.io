@@ -32,7 +32,7 @@ As a web developer, you will be spending most of your time in a text editor. The
 - Search for good fonts for programming. 
 - Search for good syntax hiliting coloring schemes.
 
-## Assignments
+## Requirements
 
 * Pick a text editor that you like and install it on your computer.
 * Understand the configuration options. 

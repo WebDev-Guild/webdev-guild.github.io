@@ -10,7 +10,7 @@ HTML uses many different tags for rendering different types of elements. For exa
 - [HTML tag list](https://www.w3schools.com/tags/) - All HTML tags, with explanations
 
 
-## Assignments
+## Requirements
 
 - Create an HTML page with at least 15 different tags. Make sure the tags have the correct attributes (if needed). Include the following tags:
     + `<p>`

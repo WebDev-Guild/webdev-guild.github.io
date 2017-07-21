@@ -13,7 +13,7 @@ For forms to be really useful, you need to have a server to process and store th
 - [Input Types](https://www.w3schools.com/html/html_form_input_types.asp)
 - [Input Attributes](https://www.w3schools.com/html/html_form_attributes.asp)
 
-## Assignments
+## Requirements
 
 - Create an HTML page with a form. Include the following:
     + Inputs with the following types:

@@ -17,7 +17,7 @@ This tutorial will focus on Bash, a common terminal shell emulator. Windows user
 - [`sudo` explanation](https://linuxacademy.com/blog/linux/linux-commands-for-beginners-sudo/)
 - [Permissions explanation](http://www.thegeekstuff.com/2010/04/unix-file-and-directory-permissions/) and the [`chmod` command](http://www.thegeekstuff.com/2010/06/chmod-command-examples)
 
-## Assignments
+## Requirements
 
 - Demonstrate the following terminal commands to your mentor:
   - `ls`

@@ -10,7 +10,7 @@ Navigation on HTML pages is usually done with the folder structure. Understandin
 - [`index.html`](https://teamtreehouse.com/community/why-is-it-important-that-we-name-the-main-file-indexhtml) - Why do you name your default file `index.html`?
 - [Folder Structure](http://www.htmlquick.com/tutorials/organizing-a-website/2.html) - Folder Structures are one of the most important things to understand when designing web pages.
 
-## Assignments
+## Requirements
 
 - Create a webpage with the following structure:
 ```
