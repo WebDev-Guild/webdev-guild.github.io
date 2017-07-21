@@ -1,0 +1,29 @@
+# HTML Tags
+
+## Intro
+
+HTML uses many different tags for rendering different types of elements. For example, `<p>` is for a paragraph, `<div>` is for a division, or block of the page. `<h1>` is a big header, while `<h6>` is a small header. Check out all the rest of them, and use them in a page.
+
+## Suggested Learning
+
+- [CodePen](http://codepen.io/) - Use this to easily test your HTML
+- [HTML tag list](https://www.w3schools.com/tags/) - All HTML tags, with explanations
+
+
+## Assignments
+
+- Create an HTML page with at least 15 different tags. Make sure the tags have the correct attributes (if needed). Include the following tags:
+    + `<p>`
+    + `<div>`
+    + `<span>`
+    + `<ul>`
+    + `<ol>`
+    + `<li>`
+    + `<img />`
+    + `<a>`
+- Explain the difference between `<div>` and `<span>` (You will have to do your own exploration to find the answer to this)
+- Show your work to your mentor to pass off.
+
+## Extra Learning
+
+- [HTML Tags Cheat Sheet](http://overapi.com/html)

@@ -48,7 +48,7 @@ Badges are awarded at the following levels:
 - Master
 
 ### Apprentice 👍
-You are getting your feet wet and gaining basic literacy in a skill category. You will use study materials to prove a basic knowledge of a skill. You will also be proving your ability in that skill through building a micro-project with a very specific and prescriptive set of requirements. As an alternative to building new projects, you may use previous work and a few other options to pass this level's badges.
+You are getting your feet wet and gaining basic literacy in a skill category. You use study materials to prove a basic knowledge of a skill. You also prove your ability in that skill through building a micro-project with a very specific and prescriptive set of requirements. As an alternative to building new projects, you may use previous work and a few other options to pass this level's badges.
 
 ### Journeyman 💪
 You are actively applying your knowledge to produce quality code in new and creative ways. You are also demonstrating your knowledge of advanced concepts in your production code. As an alternative to project work, a developer can use previous project or production work to pass this level's badges. You must have previously completed all Apprentice badges to earn the Journeyman rank.
@@ -71,6 +71,8 @@ To advance in ranks, you must demonstrate your ability in all of the badges by c
 ### Journeymen
 
 - [Matt Ricks](mailto:mgizmor37@gmail.com)
+
+You can also contact a mentor on [Discord](https://discord.gg/PUcnnjV)
 
 Want to be a mentor? Receive the Apprentice and Journeyman ranks and then file an issue explaining why you think you'd be a good mentor.
 
