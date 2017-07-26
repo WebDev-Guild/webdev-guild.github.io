@@ -24,6 +24,7 @@ This requirement will cover the three ways to add CSS to your HTML as well as a 
 - [CSS Backgrounds](https://www.w3schools.com/css/css_background.asp)
 - [CSS Text](https://www.w3schools.com/css/css_text.asp)
 - [CSS Width & Height](https://www.w3schools.com/css/css_dimension.asp)
+- [CSS Style Guide](http://codeguide.co/#css)
 
 - Colors
   - [Basic CSS Colors](https://www.w3schools.com/css/css_colors.asp) - Covers named, hex, and RGB colors
