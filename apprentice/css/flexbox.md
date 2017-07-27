@@ -11,6 +11,20 @@ Before Flexbox, doing complicated CSS layouts could be tricky. Now, things like 
 
 ## Assignments
 
+- Complete the following CodePen assignments:
+  - [Flexbox Assignment 1](https://codepen.io/alexanderson1993/pen/LjpEvP?editors=1100)
+    - Using only Flexbox, change the CSS of the Codepen to look like this reference image:
+
+![Flexbox Assignement 1](./flexbox1.png)
+
+  - [Flexbox Assignment 2](https://codepen.io/alexanderson1993/pen/ayvOBb?editors=1100)
+      - Using only Flexbox, change the CSS of the Codepen to look like this reference image: *Note: The picture might be different for you. All that matters is the layout.*
+
+![Flexbox Assignment 2](./flexbox2.png)
+
+
+- Show your work to your mentor to pass it off.
+
 ## Extra Learning
 
 - [Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
