@@ -12,7 +12,7 @@ We'll focus mostly on font and background. We'll spend time on CSS layout in ano
 - [CSS Backgrounds](http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/)
 - [Most important attributes](https://zellwk.com/blog/9-important-css-properties-you-must-know/)
 
-## Assignments
+## Requirements
 
 - Make sure you have an account on [Codepen](https://codepen.io)
 - Fork this Codepen: [CSS Attributes Assignment](https://codepen.io/alexanderson1993/pen/qXdqXa?editors=1100). Don't forget to save your work.
