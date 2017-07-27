@@ -22,9 +22,19 @@ There are a lot of new ways to do layout (such as Transforms, Flexbox or CSS Gri
   - [CSS Layout Assignment 2](https://codepen.io/alexanderson1993/pen/VzvqzN?editors=1100)
     - Using CSS Layout, change the CSS of the Codepen to look like this reference image. Don't worry about getting the sizes exactly right. Just make it look similar:
 
+## Assignments
+
+- Fork and complete the following CodePen assignments:
+  - [CSS Layout Assignment 1](https://codepen.io/alexanderson1993/pen/YxyqZp?editors=1100)
+    - Using CSS Layout, change the CSS of the Codepen to look like this reference image:
+
+![CSS Layout 1](./layout1.png)
+
+  - [CSS Layout Assignment 2]()
+    - Using CSS Layout, change the CSS of the Codepen to look like this reference image:
+
 ![CSS Layout 2](./layout2.png)
 
 ## Extra Learning
 
 - [HTML & CSS is Hard](https://internetingishard.com/html-and-css/) - More in-depth tutorial
-- [Learn CSS Layout](http://learnlayout.com)
