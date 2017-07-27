@@ -11,7 +11,7 @@ Before Flexbox, doing complicated CSS layouts could be tricky. Now, things like 
 
 ## Assignments
 
-- Complete the following CodePen assignments:
+- Fork and complete the following CodePen assignments:
   - [Flexbox Assignment 1](https://codepen.io/alexanderson1993/pen/LjpEvP?editors=1100)
     - Using only Flexbox, change the CSS of the Codepen to look like this reference image:
 
