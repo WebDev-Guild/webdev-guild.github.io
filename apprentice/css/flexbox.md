@@ -9,7 +9,7 @@ Before Flexbox, doing complicated CSS layouts could be tricky. Now, things like 
 - [Learn Layout Flexbox](http://learnlayout.com/flexbox.html)
 - [Flexbox Froggy](http://flexboxfroggy.com)
 
-## Assignments
+## Requirements
 
 - Fork and complete the following CodePen assignments:
   - [Flexbox Assignment 1](https://codepen.io/alexanderson1993/pen/LjpEvP?editors=1100)
