@@ -11,8 +11,8 @@ CSS works by targeting specific elements based on a set of rules. Those rules ar
 
 A few things to remember:
 
-* Some selectors are more powerful than others and can override each other. That's called 'Specificity'. For example, ID selectors override Class selectors. However, there are rules surrounding how specificity works.
-* You can be more specific with your selectors by chaining them together, like this: `div.form-group input[type="number"]{}`. In other words, "Select an input with the type of 'number' which is inside of a div with a class 'form-group'". Without specificity like this, you wouldn't be able to target specific elements without changing other elements too.
+* Some selectors are more powerful than other, which can cause the selector to override another selector. That's called 'Specificity'. For example, if I have a selector with an ID, the styles it applies would override the styles applied to any elements matching a selector with only a class. However, there are rules surrounding how specificity works.
+* You can be more specific with your selectors by chaining them together, like this: `div.form-group input[type="number"]{}`. In other words, "Select an input with the type of 'number' which is inside of a div with a class 'form-group'". Without specificity like this, you wouldn't be able to target specific elements without changing other elements too. This also increases the specificity of your selector. For example, a selector with two classes (`.button.blue`) would override the styles of a selector with only one selector(`.button`)
 * You can put commas between selectors to apply CSS to both selectors. Ex: `div, p{}` applies style to both `<div>` and `<p>` tags.
 * There are more advanced selectors which can be added to other selectors to make them more powerful. Examples include `:before`, `:after`, `:nth-child()`, and `:first-of-type`
 * Never ever use `!important`
@@ -24,7 +24,7 @@ A few things to remember:
 - [Interactive CSS Selectors](http://benhowdle.im/cssselectors/)
 - [CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/) - How CSS Selectors override each other
 
-## Assignments
+## Requirements
 
 - Make sure you have an account on [Codepen](https://codepen.io)
 - Fork this Codepen: [CSS Selectors Assignment](). 
