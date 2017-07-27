@@ -41,7 +41,7 @@ or
 - Install a client application, like [Source Tree](https://www.sourcetreeapp.com) or [GitHub Desktop](https://desktop.github.com). The application will automatically install Git for you. Client applications allow you to use git without having to use the command line interface.
 - Create a free account on GitHub.
 
-## Assignments
+## Requirements
 
 - Complete all of the following:
     - Create a git repository 

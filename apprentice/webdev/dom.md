@@ -6,7 +6,7 @@ When a web browser loads an HTML file from a server, that file comes in the form
 
 Once the DOM is loaded and rendered from the HTML documents, it can be manipulated with JavaScript. That is one of the most common uses of JavaScript.
 
-## Requirements
+## Prerequisites
 
 You should be familiar with HTML, JavaScript, and How the Web Works before starting the DOM badge.
 
@@ -14,7 +14,7 @@ You should be familiar with HTML, JavaScript, and How the Web Works before start
 
 - [CSS Tricks Artile](https://css-tricks.com/dom/) - This article is simple and straightforward. 
 
-## Assignments
+## Requirements
 
 - Study the items in the suggested learning
 - Write a summary of what you learned or have a video chat with your mentor to discuss what you learned about how the web works.
