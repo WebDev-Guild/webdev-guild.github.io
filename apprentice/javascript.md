@@ -14,5 +14,6 @@
 - [ ] [JavaScript Data Types](javascript/data-types.md)
 - [ ] [JavaScript Debugging](javascript/debugging.md)
 - [ ] [JavaScript Gotchas](javascript/gotchas.md)
+- [ ] [JavaScript and the DOM](javascript/dom.md)
 
 *Work In Progress*
