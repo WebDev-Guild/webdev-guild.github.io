@@ -12,15 +12,17 @@ You should be familiar with HTML, JavaScript, and How the Web Works before start
 
 ## Suggested Learning
 
-- [CSS Tricks Artile](https://css-tricks.com/dom/) - This article is simple and straightforward. 
+- [CSS Tricks Article](https://css-tricks.com/dom/) - This article is simple and straightforward. 
 
 ## Assignments
 
 - Study the items in the suggested learning
 - Write a summary of what you learned or have a video chat with your mentor to discuss what you learned about how the web works.
+- Complete the [JavaScript and the DOM](../javascript/dom.md) requirement to pass off this requirement.
 
 ## Extra Learning
 
 - [MDN on the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) - A more in-depth introduction.
 - [DOM Enlightenment](http://domenlightenment.com) - An entire book about the DOM.
+
 *This list is by no means complete. Feel free to add an issue or put in a pull request to update it.*
