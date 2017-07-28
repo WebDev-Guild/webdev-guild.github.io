@@ -11,7 +11,7 @@ There are a lot of new ways to do layout (such as Transforms, Flexbox or CSS Gri
 - [CSS Box Model](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=12&ved=0ahUKEwjKr7PDgarVAhXIhFQKHTwoBl4QFghfMAs&url=http%3A%2F%2Flearn.shayhowe.com%2Fhtml-css%2Fopening-the-box-model%2F&usg=AFQjCNGU3mfLsAasdJjHgGbOxHMIFwsqpA)
 - [Z-Index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index)
 
-## Assignments
+## Requirements
 
 - Fork and complete the following CodePen assignments:
   - [CSS Layout Assignment 1](https://codepen.io/alexanderson1993/pen/YxyqZp?editors=1100)
