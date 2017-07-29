@@ -12,7 +12,7 @@ This badge is fairly simple - learn the language and structure of an HTML docume
 - [Syntax Basics](http://marksheet.io/html-syntax.html)
 - [Best Practices](https://www.w3schools.com/html/html5_syntax.asp) - A list of good and bad ways to write HTML.
 
-## Assignments
+## Requirements
 
 - Create a simple HTML page with the following features:
   - Corret HTML syntax, following best practices

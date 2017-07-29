@@ -17,7 +17,7 @@ We'll discuss how you can easily reference IDs and Classes from CSS in the [CSS 
 - Read the above.
 - Read the extra learning items if you have more questions.
 
-## Assignments
+## Requirements
 
 - Create a webpage with the following:
   - Two elements with different ID tags, with a full page of content in between (use [Lorem Ipsum](http://www.lipsum.com) to generate content)
