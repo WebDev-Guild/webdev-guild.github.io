@@ -1,8 +1,8 @@
-#Markdown 
+# Markdown 
 
 ## Intro
 
-
+Markdown is a text-to-html tool for web developers. It allows you to write information that is easy write, and easy to write than it converts it to an html structure for you.
 
 ## Suggested Learning
 
