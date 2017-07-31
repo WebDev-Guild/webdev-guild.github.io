@@ -27,9 +27,15 @@ A few things to remember:
 ## Requirements
 
 - Make sure you have an account on [Codepen](https://codepen.io)
-- Fork this Codepen: [CSS Selectors Assignment](). 
+- Fork this Codepen: [CSS Selectors Assignment](https://codepen.io/alexanderson1993/pen/rzaJpx?editors=1100). 
+- Without changing the HTML or CSS Attributes, add Selectors to the CSS editor style rules to make the output HTML look like the following reference image: 
+
+![Selector Reference Image](selectors.png)
+
+- Send the link to your forked Codepen to your mentor to pass off this requirement.
 
 ## Extra Learning
 
 - [Specificity Calculator](https://specificity.keegan.st)
+- [CSS Selector Guidelines](https://hacks.mozilla.org/2016/05/css-coding-techniques/) - Includes more helpful information. 
 
