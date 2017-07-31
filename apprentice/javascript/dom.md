@@ -8,6 +8,7 @@
 
 ## Suggested Learning
 
+- [JavaScript DOM Methods](http://www.hongkiat.com/blog/dom-manipulation-javascript-methods/)
 
 ## Requirements
 
