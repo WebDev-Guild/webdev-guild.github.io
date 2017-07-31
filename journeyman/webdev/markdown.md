@@ -16,5 +16,11 @@
 - Include: 
     - A header
     - A description of your project
-    - A link (Possibly to your websites domain if you have one.)
-    - An image 
+    - A link (Possibly to your websites domain if you have one)
+    - An image
+
+## Extra Learning
+
+- Follow this [Markdown tutorial](http://www.markdowntutorial.com/) for hands on practice.
+
+*This list is by no means complete. Feel free to add an issue or put in a pull request to update it.*
