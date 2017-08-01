@@ -5,7 +5,7 @@
 Markdown is a text-to-html tool for web developers. It allows you to write information that is easy to write, and easy to read, than it converts it to an HTML structure for you. 
 
 - Markdown has many uses some of which are: 
-    - It works great for ReadMes and documentation.
+    - It works great for READMEs and documentation.
     - You can write long documents with it.
     - You can use it to format your text in a lot of popular modern chat apps, like Discord and Slack.
     - You can use it in Github comments, issues, and pull requests (In fact, Github has it's own special flavor of Markdown).
