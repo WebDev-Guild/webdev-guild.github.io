@@ -9,9 +9,15 @@
 ## Suggested Learning
 
 - [JavaScript DOM Methods](http://www.hongkiat.com/blog/dom-manipulation-javascript-methods/)
+- [The DOM](https://ralexanderson.com/posts/webdev-guild-javascript-dom/)
 
 ## Requirements
 
+- Fork the following Codepen:
+  - [JavaScript DOM Assignment](https://codepen.io/alexanderson1993/pen/LjRpPK?editors=0010)
+- Make the changes indicated in the JavaScript code window.
+- Save your work.
+- Show your pen to your mentor to have them pass you off.
 
 ## Extra Learning
 
