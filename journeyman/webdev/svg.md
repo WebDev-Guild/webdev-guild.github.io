@@ -2,7 +2,7 @@
 
 ## Intro
 
-SVG is a Scalable Vector Graphics, which basically means it is a language used for to create two-dimensional vector graphics. These graphics can be used to create complex or simple graphics that can be animated in a variety of ways.
+SVG is a Scalable Vector Graphics, which basically means it is a language used for to create two-dimensional vector graphics. These graphics can be used to create complex or simple graphics that can be animated in a variety of ways. An important fact to note is that SVG images do not lose graphic qualties when resized, which is not always the case when dealing with standard images or icon fonts.
 
 ## Suggested Learning
 
@@ -11,10 +11,12 @@ SVG is a Scalable Vector Graphics, which basically means it is a language used f
 - Learn how to use the `<path>` element [here.](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths)
 
 ## Requirements
-- Make a project that demonstrats the points below:
+- Make a project that demonstrates the points below in an HTML document:
+    - Create an SVG image using a desktop tool like Sketch, Adobe Illustrator/Photoshop, or an online tool like [editor.method](http://editor.method.ac/). These tools are listed because they are able to export as an SVG file.
     - Using SVG as an <img> src as "Data-URI" in html
     - Using SVG as a background-image in CSS
     - Using SVG as an "inline" element in HTML with the `<path>` element.
+    - Style your inline SVG with CSS to do something on an event (such as hover).
 - Share your file with your mentor to have them pass it off.
 
 ## Extra Learning
