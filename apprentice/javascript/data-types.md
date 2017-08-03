@@ -49,7 +49,9 @@ var myArray = [1,2,3];
 console.log(myArray[1]) // 2
 ```
 
-Arrays have methods which allow you to manipulate the data inside of them:
+Arrays have a property called `.length` which tells you the number of items the array has.
+
+Arrays have methods which allow you to read and manipulate the data inside of them:
 
 * `.push(value)` puts a value on the end of an array:
 
@@ -81,6 +83,14 @@ console.log(myArray) // ['🍩',2,3]
 ```
 
 * `.splice()` lets you delete and remove from the inside of the array. Check this guide for more info: [`Array.prototype.splice()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+
+* `.indexOf()` lets you get the index of an item in the array:
+
+```
+var myArray = ["a","b","c"];
+var index = myArray.indexOf("c"); // 2, since the index starts at 0
+myArray[index] // "c" - the item at index 2 of the array;
+```
 
 There's one more type you need to know:
 
@@ -119,6 +129,12 @@ JavaScript also provides a number of operators for comparing and combining diffe
 - [JavaScript Operators](https://www.w3schools.com/jsref/jsref_operators.asp) - Learn everything but the bitwise operators. 
 
 ## Requirements
+
+- Fork the following Codepen:
+  - [JavaScript Data-Types Assignment](https://codepen.io/alexanderson1993/pen/XajQxK?editors=0011)
+- Make the changes indicated in the JavaScript code window.
+- Save your work.
+- Show your pen to your mentor to have them pass you off.
 
 ## Extra Learning
 
