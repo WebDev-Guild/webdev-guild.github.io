@@ -14,7 +14,7 @@ Markdown is a text-to-html tool for web developers. It allows you to write infor
 
 - Read the Intro and Syntax on [Markdown](https://daringfireball.net/projects/markdown/)
 - Follow this [Markdown tutorial](http://www.markdowntutorial.com/) for hands on learning.
-- View the different .md files in this Webdev repository.
+- View the different .md files in this WebDev repository.
 
 ## Requirements
 
@@ -29,6 +29,7 @@ Markdown is a text-to-html tool for web developers. It allows you to write infor
 
 ## Extra Learning
 
-- Watch [this video](https://www.youtube.com/watch?v=_gknWWa2OF0) which is helpfull for visual learners.
+- Watch [this video](https://www.youtube.com/watch?v=_gknWWa2OF0) which is helpful for visual learners.
+- [Commonmark Help](http://commonmark.org/help/) Another interactive tutorial for Markdown.
 
 *This list is by no means complete. Feel free to add an issue or put in a pull request to update it.*
