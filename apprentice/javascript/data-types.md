@@ -5,12 +5,12 @@
 JavaScript offers a few primitive data types:
 
 * **Strings** for text, denoted by double quotes (""), single quotes (''), and backticks (\`\`)
-* **Numbers** for integers and [floats](https://techterms.com/definition/floatingpoint). Integers are numbers with no decimal; Floats are numbers with a decimal. Both are recognized as the same type in JavaScript, but under the hood they are handled differently. (As an example, in a browser console type `1 + 2`. Then type `0.1 + 0.2`. [This website](http://0.30000000000000004.com) explains why that is the case.) 
+* **Numbers** for integers and [floats](https://techterms.com/definition/floatingpoint). Integers are numbers with no decimal, eg. 1, 2, 5, 100, etc. Floats are numbers with a decimal, eg. 0.5, 1.4, 3.3333, etc. Both are recognized as the same type in JavaScript, but under the hood they are handled differently. (As an example, in a browser console type `1 + 2`. Then type `0.1 + 0.2`. [This website](http://0.30000000000000004.com) explains why that is the case.) 
 * **Booleans** for `true` and `false` values. These are used in conditionals and are the output of comparison operators, like `===`, `>` and `<=`.
-* **`null`** is a nothing value. It equals nothing.
-* **`undefined`** is an _unassigned_ value. `undefined` and `null` are a little weird.  `¯\_(ツ)_/¯`
+* **`null`** is a nothing value. It has a value of nothing. It represents no data.
+* **`undefined`** is an _unassigned_ value. It is the absence of value of a variable or property before you put something into it.
 
-JavaScript also provides two compound data types:
+JavaScript also provides two compound data types: Objects and Arrays.
 
 * **Objects** are the basic building block of everything in JavaScript. Literally, Everything Is An Object™. Objects store data in key-value pairs. That means a value is accessed with its key. You can use any mix of primitives as keys or values in an object, and you can use Objects or Arrays as values too. (You can even use objects as keys, but that's a bad idea!) Objects are created with squigly brackets: `{}` is an empty object. `{1: "one", 2:"two"}` is an object with Number keys and String values. If you put an object into a variable, you can access data from the object with a period after the variable name:
 
