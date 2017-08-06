@@ -4,9 +4,9 @@ Howdy, and welcome to the WebDev Guild! The WebDev Guild can be a great opportun
 
 ## What is the WebDev Guild?
 
-The WebDev Guild is a website programming club for kids. We provide resources and guides for students (we call them Guilders) to learn the basic principles of web development. The Guilders complete requirements and earn badges to showcase what they have accomplished. This isn't a watered-down program—the resources we provide are real-world guides created by industry leaders. Our goal is to develop Guilders who are able to assemble fully functional web apps by the time they complete all of the badges and requirements.
+The WebDev Guild is a website programming club for kids. We provide resources and guides for students (we call them Guilders) to learn the basic principles of web development. The Guilders complete requirements and earn badges to showcase what they have accomplished. This isn't a watered down program. The resources we provide are real-world guides created by industry leaders. Our goal is to develop Guilders who are able to assemble fully functional web apps by the time they complete all of the badges and requirements.
 
-Guilders are paired with experienced adult mentors who can answer their questions, guide their learning, and pass off their requirements.
+Guilders also have access to experienced adult mentors who can answer their questions, guide their learning, and pass off their requirements.
 
 The Guild also has regular meetings where Guilders meet to discuss their progress, show off the projects they are working on, and pass off badge requirements.
 
