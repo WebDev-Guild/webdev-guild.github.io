@@ -2,7 +2,7 @@
 
 ## Intro
 
-With linting we can easily find syntax errors and poor code. However, there is another type of error which plagues JavaScript due to it's dynamically typed variables: Type Errors. Type errors happen when you attempt to use one type as if it were another type. For example, trying to access properties on `undefined`. It doesn't work.
+With linting we can easily find syntax errors and poor code. However, there is another type of error which plagues JavaScript due to it's dynamically typed variables: Type Errors. Type errors happen when you attempt to use one type as if it were another type. For example, when you try to access properties on `undefined` (eg: `var a; a.awesome = 'You are awesome'; // Throws a type error`), it doesn't work. It throws a type error, saying that `undefined` isn't an object, so you can't access properties on it.
 
 Flow adds types to JavaScript. It analyzes your code to find areas where you might get type errors and warns you about them. You can fix them by refactoring your code, or by applying type definitions to your functions and variables. Type definitions say what kind of type that variable should be. Flow even can track types between packages, making sure that you are always using the right types.
 
