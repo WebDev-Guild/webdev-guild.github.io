@@ -1,9 +1,8 @@
-# JavaScript and the DOM
+# ES6
 
 ## Intro
 
-## Requirements
-
+JavaScript has had many new features added to the language in the last 3 years. These changes are collectively called 'ES6', and provide convenient new ways to write better code. (_As a side note, new revisions of the JavaScript language are released every year. ES6 is technically ES2015, ES7 is ES2016, etc._)
 
 ## Suggested Learning
 
