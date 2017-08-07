@@ -16,7 +16,7 @@
 - [ES6 Features](https://github.com/lukehoban/es6features)
 - [More explanation](https://webapplog.com/es6/)
 - [BabelJS](https://babeljs.io)
-  - Because not all web browsers support the latest JavaScript features, you have to "transpile", or convert your ES6 JavaScript to syntax which older browsers can use. Some features, like Promises, can't be transpiled and require what is called a 'Polyfill'. Polyfills replicate functionality of new features using older-style code. Babel is an incredibly powerful tool, and [this blog post](http://codemix.com/blog/why-babel-matters) explains why Babel matters.
+  - Because not all web browsers support the latest JavaScript features, you have to "transpile", or convert your ES6 JavaScript to syntax which older browsers can use. Some features, like Promises, can't be transpiled and require what is called a 'Polyfill'. Polyfills replicate functionality of new features using older-style code. Babel is an incredibly powerful tool, and [this blog post](http://codemix.com/blog/why-babel-matters) explains why Babel matters. You'll learn how to use Babel in your projects in the [tooling.md](Tooling) requirement.
 
 ## Requirements
 
