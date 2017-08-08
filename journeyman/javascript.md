@@ -10,8 +10,8 @@
 ## Requirements
 
 - [ ] [ES6](javascript/es6.md)
-- [ ] [ESLint & JavaScript Tooling](javascript/tooling.md)
-- [ ] [Code Quality with Flow](javascript/flow.md)
+- [ ] [JavaScript Tooling](javascript/tooling.md)
+- [ ] [Code Quality with Flow and ESLint](javascript/flow.md)
 - [ ] [Functional JavaScript](javascript/functional.md)
 - [ ] [JavaScript Testing](javascript/testing.md)
 - [ ] [JavaScript Practice](javascript/practice.md)
