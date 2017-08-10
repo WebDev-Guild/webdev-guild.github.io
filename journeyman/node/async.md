@@ -64,6 +64,10 @@ fetch('https://www.anapi.com')
 
 ## Requirements
 
+- Fork this [Codepen](https://codepen.io/alexanderson1993/pen/eERRgZ?editors=1010)
+- Follow the instructions
+- Show it to a mentor to have them pass you off.
+
 
 ## Extra Learning
 
