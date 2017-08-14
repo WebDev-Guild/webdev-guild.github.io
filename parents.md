@@ -1,6 +1,6 @@
 # What is the WebDev Guild - A guide for parents
 
-Howdy, and welcome to the WebDev Guild! The WebDev Guild can be a great opportunity for your child to develop technical development skills that can benefit them now and in the future. Learning to code not only opens door for future career development, but can improve computational problem-solving skills in all areas. As your child sets out on this journey, we want you, as a parent, to be well-informed about the Guild, and your child’s learning.
+Howdy, and welcome to the WebDev Guild! The WebDev Guild can be a great opportunity for your child to develop technical development skills that can benefit them now and in the future. Learning to code not only opens door for future career development, but can improve computational problem-solving skills in all areas. As your child sets out on this journey, we want you, as a parent, to be well-informed about the Guild, and your child’s learning. We need your help to ensure your child's success.
 
 ## What is the WebDev Guild?
 
@@ -21,10 +21,10 @@ As with anything on the internet, there are a few risks with being involved in t
 We take these matters very seriously and employ the following measures to combat them:
 
 -	We ensure that all of our badges link to posts and guides of the highest quality. If we find that these guides are not up to our standards, we will remove them immediately.
--	We will not tolerate cyberbullying of any kind. If we receive reports of cyberbullying, we will immediately suspend the offender's Discord account and take appropriate action, up to and including ejection from the guild.
-- We require all minors to complete the [Apprentice Web Safety Requirement](apprentice/webdev/safety.md) before they are allowed to pass off any other badges. 
+-	We will not tolerate cyberbullying of any kind. If we receive reports of cyberbullying, we will immediately suspend the offender's Discord account and take appropriate action, up to and including ejection from the guild. In addition, adult mentors are strongly discouraged from communicating in private chats with Guilders. All communications for the guild over Discord will happen in monitored public channels. Any adult mentor communicating with minor Guilders will be suspended. As a parent, we encourage you to help by making sure Guilders are not engaging in inappropriate private conversations at home.
+- We require all minors to complete the [Apprentice Web Safety Requirement](apprentice/webdev/safety.md) before they are allowed to pass off any other badges. We also require the parents of minor Guilders to read and sign a [Parental Release Form](https://goo.gl/forms/E9IW6UiHJuuDVAtm1) which allows you as a parent to give direct permission for your child to participate.
 
-We want to ensure that our Guilders have the best experience possible,  so your feedback is very important to us. If you have any other concerns or questions, please [get in touch](mailto:alexanderson1993@gmail.com).
+We want to ensure that our Guilders have the best experience possible, so your feedback is very important to us. If you have any other concerns or questions, please [get in touch](mailto:alexanderson1993@gmail.com).
 
 ## Why should I be involved?
 
@@ -36,11 +36,12 @@ Our classes and curriculum are designed for kids and adults alike, so parents ar
 
 Here are a few things that might help:
 
+- Fill out the [Parental Release Form](https://goo.gl/forms/E9IW6UiHJuuDVAtm1). This form show us that you give your child permission to participate in the guild.
 - Attend the guild meetings with your child.
-- •	The online services which we use require parental permission. You can help your child by assisting them when they create accounts on those services. Specifically, those are:
-  - [Discord](https://discordapp.com)
-  - [Github](https://github.com)
-  - [CodePen](https://codepen.io)
+- The online services which we use require parental permission. You can help your child by assisting them when they create accounts on those services. Specifically, those are:
+  - [Discord](https://discordapp.com) - The group-chat app which we use to share Guild news and announcements and work with Guilders on their badges.
+  - [Github](https://github.com) - A code repository hosting site. Guilders will use this site to store and share the code for their projects.
+  - [CodePen](https://codepen.io) - A code assignment site. Here, Guilders will be given assignments to complete. They can also use this site to learn how experienced developers write code.
 - Ask your child about what they are learning in the WebDev Guild. Work through the badge requirements with them.
 
 -----------------
