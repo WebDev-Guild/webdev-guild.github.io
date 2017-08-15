@@ -33,7 +33,7 @@ It is _**highly**_ suggested that you complete the [NPM](.../node/npm.md) requir
   - *If you don't have a big JavaScript project that you are working on, you can fork another one, like [Thorium](https://github.com/thorium-sim/thorium), and add type definitions to one of the files that doesn't have them yet. Plus, this gives you the chance to contribute to open source code!*
   - Add type definitions to at least 1 file.
   - Make sure Flow validates your code correctly!
-  - Show your file to your mentor to have them pass you off.
+  - Show your file to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

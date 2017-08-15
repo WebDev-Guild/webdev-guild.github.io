@@ -22,8 +22,7 @@ Before Flexbox, doing complicated CSS layouts could be tricky. Now, things like 
 
 ![Flexbox Assignment 2](./flexbox2.png)
 
-
-- Show your work to your mentor to pass it off.
+- Show your work the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

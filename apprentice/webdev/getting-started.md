@@ -10,5 +10,5 @@ To get started with WebDev, you need some tools. Here's a recommended list to ge
 
 You should also get involved in the WebDev guild in other ways:
 
-- Get in touch with your mentor. If you don't have a mentor, [contact one](../../../#mentors).
+- Get in touch with the mentors. You can reach them on the Discord channel.
 - Participate in the WebDev Guild meetups and livestreams.

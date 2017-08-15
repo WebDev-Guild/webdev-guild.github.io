@@ -17,7 +17,7 @@ SVG is a Scalable Vector Graphics, which basically means it is a language used f
     - Using SVG as a background-image in CSS
     - Using SVG as an "inline" element in HTML with the `<path>` element.
     - Style your inline SVG with CSS to do something on an event (such as hover).
-- Share your file with your mentor to have them pass it off.
+- Share your file with your the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

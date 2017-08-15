@@ -134,7 +134,7 @@ JavaScript also provides a number of operators for comparing and combining diffe
   - [JavaScript Data-Types Assignment](https://codepen.io/alexanderson1993/pen/XajQxK?editors=0011)
 - Make the changes indicated in the JavaScript code window.
 - Save your work.
-- Show your pen to your mentor to have them pass you off.
+- Show your pen to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

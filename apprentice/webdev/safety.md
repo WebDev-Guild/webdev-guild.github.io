@@ -17,5 +17,5 @@
 
 ## Requirements
 
-- Contact your mentor and summarize these principles
+- Summarize these principles on the `#requirements` Discord channel to show you have passed this requirement off.
 - Pledge to follow these principles to keep yourself and others safe online.

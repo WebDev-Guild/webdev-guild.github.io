@@ -32,7 +32,7 @@ A few things to remember:
 
 ![Selector Reference Image](selectors.png)
 
-- Send the link to your forked Codepen to your mentor to pass off this requirement.
+- Send the link to your forked Codepen to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

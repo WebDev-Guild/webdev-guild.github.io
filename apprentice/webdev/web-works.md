@@ -21,7 +21,7 @@ But how does it work? How does the browser know which server to contact when you
 ## Requirements
 
 - Study the items in the suggested learning
-- Write a summary of what you learned or have a video chat with your mentor to discuss what you learned about how the web works.
+- Write a summary of what you learned and share it on the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

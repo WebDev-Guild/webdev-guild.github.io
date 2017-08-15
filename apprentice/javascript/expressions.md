@@ -21,7 +21,7 @@ This requirement will address the following JavaScript practices
 ## Requirements
 
 - Read the suggested learning and embody the principles and practices in your JavaScript code. 👍
-- Explain the principles to your mentor to have them pass it off.
+- Explain the principles on the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

@@ -19,15 +19,16 @@ This tutorial will focus on Bash, a common terminal shell emulator. Windows user
 
 ## Requirements
 
-- Demonstrate the following terminal commands to your mentor:
-  - `ls`
-  - `cd`
-  - `mkdir`
-  - `cp`
-  - `mv`
-  - `rm`
-- Explain the `sudo` command
-- Explain the `chmod` and `chown` command, why they are important, and how they work
+- Do the following on the `#requirements` Discord channel to show you have passed this requirement off:
+  - Explain the following terminal commands to your mentor:
+    - `ls`
+    - `cd`
+    - `mkdir`
+    - `cp`
+    - `mv`
+    - `rm`
+  - Explain the `sudo` command
+  - Explain the `chmod` and `chown` command, why they are important, and how they work
 
 ## Extra Learning
 

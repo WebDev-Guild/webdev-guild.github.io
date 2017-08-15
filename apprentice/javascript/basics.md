@@ -25,7 +25,7 @@ This requirement will cover the basics of JavaScript:
   - [JavaScript Basics Assignment](https://codepen.io/alexanderson1993/pen/Kvdjgj?editors=0010)
 - Make the changes indicated in the JavaScript code window.
 - Save your work.
-- Show your pen to your mentor to have them pass you off.
+- Show your pen to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

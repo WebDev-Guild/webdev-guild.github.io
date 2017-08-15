@@ -35,7 +35,7 @@ For forms to be really useful, you need to have a server to process and store th
     + All inputs should have names
     + When the form is submitted, you should see the inputs in the URL query string
 - Explain the difference between a GET and POST request
-- Show your work to your mentor to pass this requirement off
+- Show your work to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

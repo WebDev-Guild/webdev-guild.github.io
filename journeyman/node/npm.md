@@ -27,7 +27,7 @@ NPM is built into Node, so you can install NPM by installing [Node](https://node
   - Install your packagess locally and save them to your `package.json` (hint: `--save`)
   - Be sure to look up the documentation for the packages to know how to run them.
 - Create a script in your `package.json` file which runs your commands and outputs them to the terminal
-- Commit and push your project to Github and show it to a mentor to have them pass you off.
+- Commit and push your project to Github and show it to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

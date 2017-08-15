@@ -24,7 +24,7 @@ We'll discuss how you can easily reference IDs and Classes from CSS in the [CSS 
   - Two elements with the same class
   - Two elements with multiple classes
   - An `<a>` element which references the bottom ID tag. Clicking the `<a>` must successfully focus on the bottom ID tag.
-- Show your webpage to your mentor to pass off this requirement.
+- Show your webpage to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

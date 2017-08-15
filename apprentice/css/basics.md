@@ -35,7 +35,7 @@ This requirement will cover the three ways to add CSS to your HTML as well as a 
 
 _Notice something interesting or strange about those examples? Ask your mentor about HTML and CSS pre-processors!_
 
-## Assignments
+## Requirements
 
 - Make sure you have an account on [Codepen](https://codepen.io)
 - Fork this Codepen: [CSS Basics Assignment](https://codepen.io/alexanderson1993/pen/gxYMOp?editors=1100). Don't forget to save your work.
@@ -49,7 +49,7 @@ _Notice something interesting or strange about those examples? Ask your mentor a
     - Set the height of the `<div>` tag to a `px` value
     - Set the background color of the `<div>` to an RGBA color, with the A set to a value between 0 and 1
     - Without creating a CSS selector for `p`, change the text color of the `<p>` to any color you want
-- Send the link to your forked Codepen to your mentor to pass off this requirement.
+- Send the link to your forked Codepen the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

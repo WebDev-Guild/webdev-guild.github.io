@@ -33,6 +33,6 @@ Navigation on HTML pages is usually done with the folder structure. Understandin
   - Include 1 image from another website (use an `<img>` tag)
 
 - Provide content on all of the HTML pages (use [Lorem Ipsum](http://www.lipsum.com) to generate content).
-- Show you work to your mentor to pass off the requirement.
+- Show you work to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning

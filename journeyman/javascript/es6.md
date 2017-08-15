@@ -22,7 +22,7 @@ JavaScript has had many new features added to the language in the last 3 years. 
 - Fork [this codepen](https://codepen.io/alexanderson1993/pen/rzyNKv?editors=0010) and do your work in it.
 - Change the JavaScript settings to use Babel as the preprocessor. This will make it so your ES6 code is executable.
 - Follow the instructions on the Codepen to demonstrate the features on ES6.
-- Show your work to a mentor to have them pass you off.
+- Show your work to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

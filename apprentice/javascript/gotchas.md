@@ -16,7 +16,7 @@ JavaScript is a funny language with some weird quirks. Here are some links to he
 ## Requirements
 
 - Read the above and be aware of the challenges (and benefits) provided
-- Explain some of the concepts to your mentor to have them pass you off
+- Explain some of the concepts on the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

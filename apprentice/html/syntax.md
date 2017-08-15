@@ -22,7 +22,7 @@ This badge is fairly simple - learn the language and structure of an HTML docume
   - `title` tag
   - `body` tag
   - tags inside of the `body` tag
-- Show your page to your mentor to pass off this assignment
+- Show your page to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

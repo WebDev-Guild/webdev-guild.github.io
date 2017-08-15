@@ -33,7 +33,7 @@ We'll focus mostly on font and background. We'll spend time on CSS layout in ano
     - Change the background size and position
     - Give it a border with a color
     - Give it a border radius
-- Send the link to your forked Codepen to your mentor to pass off this requirement.
+- Send the link to your forked Codepen to the `#requirements` Discord channel to show you have passed this off.
 
 ## Extra Learning
 

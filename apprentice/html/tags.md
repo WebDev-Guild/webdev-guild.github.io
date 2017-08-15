@@ -22,7 +22,7 @@ HTML uses many different tags for rendering different types of elements. For exa
     + `<img />`
     + `<a>`
 - Explain the difference between `<div>` and `<span>` (You will have to do your own exploration to find the answer to this)
-- Show your work to your mentor to pass off.
+- Show your work to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 
