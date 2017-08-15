@@ -15,8 +15,12 @@ This requirement will focus on the basics of NodeJS:
 ## Suggested Learning
 
 - [Learn You Node](https://github.com/workshopper/learnyounode) - Follow the installation instructions.
-- 
+- [Streaming](https://github.com/workshopper/stream-adventure) - Learn how to stream in Node
+
 ## Requirements
+
+- Do Learn You Node above. Show that you have completed it on the `#requirements` Discord channel.
+- Do the Streaming tutorial above. Show that you have completed it on the `#requirements` Discord channel.
 
 ## Extra Learning
 
