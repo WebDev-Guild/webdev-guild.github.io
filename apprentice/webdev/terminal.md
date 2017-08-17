@@ -32,6 +32,7 @@ This tutorial will focus on Bash, a common terminal shell emulator. Windows user
 
 ## Extra Learning
 
+- [Command Line Power User](https://commandlinepoweruser.com) - Requires email signup, but totally free
 - [Bash Cheat Sheet](https://learncodethehardway.org/unix/bash_cheat_sheet.pdf)
 - [ZSH](http://zsh.sourceforge.net) - compatible alternative to Bash
 - [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) - tools for ZSH
