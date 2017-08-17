@@ -36,6 +36,11 @@ Join the conversation on [Discord](https://discord.gg/PUcnnjV).
   - [ ] [IOT](master/iot.md)
   - [ ] [ThreeJS](master/threejs.md)
   - [ ] [Masterpiece](master/masterpiece.md)
+- Electives
+  - [ ] [Design](https://hackdesign.org/lessons)
+  - [ ] Performance
+    - [Apprentice](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/apprentice.md)
+    - [Journeyman](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/journeyman.md)
 
 Want to get started? [Contact a Mentor!](#mentors)
 
