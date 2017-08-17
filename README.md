@@ -68,13 +68,13 @@ To advance in ranks, you must demonstrate your ability in all of the badges by c
 
 ### Masters
 
-- [Alex Anderson](mailto:alexanderson1993@gmail.com)
+- [Alex Anderson](https://github.com/alexanderson1993)
 
 ### Journeymen
 
-- [Matt Ricks](mailto:mgizmor37@gmail.com)
+- [Matt Ricks](https://github.com/Emrix)
 
-You can also contact a mentor on [Discord](https://discord.gg/PUcnnjV)
+You can contact mentors on [Discord](https://discord.gg/PUcnnjV)
 
 Want to be a mentor? Receive the Apprentice and Journeyman ranks and then file an issue explaining why you think you'd be a good mentor.
 
