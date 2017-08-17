@@ -27,3 +27,5 @@ These are all things that I hope you take away from your experience with the Web
 Stay curious, my friends.
 
 *Alex* 
+
+PS. This [developer](https://www.youtube.com/watch?v=OxfJ7xw5hQE) explained her experiences with learning to code and gives some good real-world advice for learning how to code.
