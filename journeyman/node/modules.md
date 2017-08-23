@@ -2,7 +2,7 @@
 
 ## Intro
 
-
+Node allows you to use code from other files. This is called 'requiring' or 'importing', and gives you the ability to share functions, variables, and logic between multiple files. Node also provides a few conveniences, such as a `node_modules` folder where you can easily reference modules, and a few built-in modules, like `fs` for accessing the file system and `http` for creating HTTP servers. Modules can also be downloaded from [NPM](npm.md).
 
 ## Suggested Learning
 
