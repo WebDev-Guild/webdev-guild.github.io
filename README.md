@@ -8,6 +8,8 @@ The WebDev Guild was started to help teach basic to advanced programming princip
 
 Read the intro: [Wanted: Curious Learners](intro.md)
 
+Get updates on the [blog](blog)
+
 [Guide for Parents](parents.md)
 
 Join the conversation on [Discord](https://discord.gg/PUcnnjV).
