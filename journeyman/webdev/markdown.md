@@ -4,12 +4,6 @@
 
 Markdown is a text-to-html tool for web developers. It allows you to write information that is easy to write, and easy to read, than it converts it to an HTML structure for you. 
 
-- [Markdown](#markdown)
-    - [Intro](#intro)
-    - [Suggested Learning](#suggested-learning)
-    - [Requirements](#requirements)
-    - [Extra Learning](#extra-learning)
-
 ## Suggested Learning
 
 - Read the Intro and Syntax on [Markdown](https://daringfireball.net/projects/markdown/)
