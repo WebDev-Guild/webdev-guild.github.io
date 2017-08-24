@@ -32,4 +32,5 @@ Animations and Transitions can greatly enrich the experience on your website for
 
 - [CSS Easing Functions](https://matthewlein.com/tools/ceaser)
 - [CSS Animation Tool](http://cssanimate.com)
+- [High-Performance CSS Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/) - Some properties are cheap to animate, some cost in performance. If you want your animations to be buttery-smooth, only animate these properties.
 *This list is by no means complete. Feel free to add an issue or put in a pull request to update it.*
