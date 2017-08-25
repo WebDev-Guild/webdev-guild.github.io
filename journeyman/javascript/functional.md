@@ -20,8 +20,8 @@ It's a powerful paradigm which JavaScript supports. Learning it will help prepar
 
 ## Requirements
 
-- Complete the [Functional JavaScript Workshop](https://github.com/timoxley/functional-javascript-workshop)
-- Show that you have completed the workshop in the `#requirements` Discord channel to show you have passed this requirement off.
+- Complete the basic assignments in [Functional JavaScript Workshop](https://github.com/timoxley/functional-javascript-workshop)
+- Show that you have completed the basic assignments in the workshop in the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 
