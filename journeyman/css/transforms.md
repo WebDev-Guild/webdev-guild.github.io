@@ -15,7 +15,7 @@ In addition, using CSS transforms is more performant in animations than adjustin
 
 - [Guide to CSS Transforms, with examples](https://css-tricks.com/almanac/properties/t/transform/)
 - [More in-depth guide](http://learn.shayhowe.com/advanced-html-css/css-transforms/)
-- 
+
 ## Requirements
 
 - Fork this Codepen: [CSS Transforms Assignment](https://codepen.io/alexanderson1993/pen/prQpQb)
