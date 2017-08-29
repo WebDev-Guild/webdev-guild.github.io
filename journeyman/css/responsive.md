@@ -13,6 +13,10 @@ CSS provides tools for detecting and changing your CSS based on a number of fact
 
 ## Requirements
 
+- Fork this Codepen: [Responsive CSS Assignment](https://codepen.io/alexanderson1993/pen/ayQEBJ)
+- Follow the instructions in the HTML and CSS columns. Design your pen first in a mobile viewport, and then move to larger screen sizes.
+- Share your pen on the `#requirements` Discord channel to show you have passed this requirement off.
+
 
 ## Extra Learning
 
