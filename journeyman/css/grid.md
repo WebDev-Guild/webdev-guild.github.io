@@ -25,5 +25,7 @@ Just like Flexbox revolutionized layout in one dimension, CSS Grid makes major s
 
 - [The Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Grid By Example](https://gridbyexample.com/learn/) - A bunch of additional learning resources.
+- [CSS Grid Practice](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid)
+- [More Explanation](http://csskarma.com/blog/css-grid-layout/)
 
 *This list is by no means complete. Feel free to add an issue or put in a pull request to update it.*
