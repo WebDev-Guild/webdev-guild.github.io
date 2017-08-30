@@ -17,9 +17,13 @@ Just like Flexbox revolutionized layout in one dimension, CSS Grid makes major s
 
 ## Requirements
 
+- Fork the following Codepen: [CSS Grid Layout Assignment](https://codepen.io/alexanderson1993/pen/oeJgVd)
+- Follow the instructions in the pen to create a unique CSS Grid Layout
+- Show your work to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 
+- [The Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Grid By Example](https://gridbyexample.com/learn/) - A bunch of additional learning resources.
 
 *This list is by no means complete. Feel free to add an issue or put in a pull request to update it.*
