@@ -29,3 +29,5 @@ Stay curious, my friends.
 *Alex* 
 
 PS. This [developer](https://www.youtube.com/watch?v=OxfJ7xw5hQE) explained her experiences with learning to code and gives some good real-world advice for learning how to code (FYI, there are a few swears at the end).
+
+PPS. This is a [great guide](https://github.com/kamranahmedse/developer-roadmap) to different paths you can take. Be sure take your time and remember that you don't have to learn everything at once.
