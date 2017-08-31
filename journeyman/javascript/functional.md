@@ -16,6 +16,7 @@ It's a powerful paradigm which JavaScript supports. Learning it will help prepar
 
 - [Functional JavaScript Concepts](https://www.sitepoint.com/introduction-functional-javascript/) - Learn difference between imperative, object-oriented, and functional programming
 - [Functional Programming Concepts](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0) - Awesome article listing all the concepts you need to know in functional programming.
+- [Great Functional Programming Interactive Guide](https://tech.io/playgrounds/2980/practical-introduction-to-functional-programming-with-js/pure-functions)
 
 ## Requirements
 
