@@ -29,6 +29,7 @@ It's a powerful paradigm which JavaScript supports. Learning it will help prepar
 - [Functional Composition](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
 - [Functional Exercises](http://reactivex.io/learnrx/) - Tons of practice code to learn with
 - [Functional Programming Game](https://david-peter.de/cube-composer/)
+
 *This list is by no means complete. Feel free to add an issue or put in a pull request to update it.*
 
 
