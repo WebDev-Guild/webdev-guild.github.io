@@ -34,12 +34,13 @@ Join the conversation on [Discord](https://discord.gg/PUcnnjV).
   - [ ] [React](master/react.md)
   - [ ] [GraphQL](master/graphql.md)
   - [ ] [Databases](master/databases.md)
-  - [ ] [The Cloud](master/cloud.md)
   - [ ] [IOT](master/iot.md)
-  - [ ] [ThreeJS](master/threejs.md)
   - [ ] [Masterpiece](master/masterpiece.md)
 - Electives
   - [ ] [Design](https://hackdesign.org/lessons)
+  - [ ] [Meteor](electives/meteor.md)
+  - [ ] [The Cloud](electives/cloud.md)
+  - [ ] [ThreeJS](electives/threejs.md)
   - [ ] Performance
     - [Apprentice](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/apprentice.md)
     - [Journeyman](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/journeyman.md)
@@ -68,6 +69,8 @@ You have mastered the fundamental and advanced concepts of this skill and you ar
 The badges provide suggested and required learning resources, assignments, and additional learning. Students are also encouraged to use search engines and resources like [StackOverflow](https://stackoverflow.com) to find answers to their questions. Mentors are also available to answer questions, but students are encouraged to find their own answers.
 
 To advance in ranks, you must demonstrate your ability in all of the badges by completing a project. For Apprentice and Journeyman level ranks, the project is assigned to you. For the master level, you will work with your mentor to come up with a masterpiece project that will be both challenging and rewarding. 
+
+The guild also offers content as electives. This content is not required to advance in ranks, however the contents are valuable and could come in handy when working on the rank projects.
 
 -----
 
