@@ -12,6 +12,10 @@ That's the purpose of the Webdev Guild Advancement program. Here, you will find 
 
 WebDev Guild meetings are a great resource too. There, you can get direct instruction and feedback from a multitude of experienced mentors. Sincere feedback, while it may be hard to hear, is always intended to help you overcome weaknesses and mistakes and become better. Take it as a personal invitation to improve.
 
+A [great educator](https://speeches.byu.edu/talks/henry-b-eyring_child-god/) once said:
+
+> Some learning has been easy for you. But more often your enemy has been discouragement. You may try to avoid that by choosing to learn only what is easy for you, looking for the path of least resistance. But the great learner expects difficulty as part of learning and is determined to work through it.
+
 If you ever get discouraged, this [recent tweet](https://twitter.com/tylermcginnis33/status/854080450637254660) might help. Remember, everyone has to start somewhere. The only difference between you and people that make amazing things is time. Keep at it, keep learning, keep practicing and making mistakes. Eventually, you'll be comfortable enough to make amazing things.
 
 So, to summarize:
