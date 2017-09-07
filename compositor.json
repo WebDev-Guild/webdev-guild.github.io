@@ -50,7 +50,7 @@
     },
     {
       "component": "header",
-      "heading": "webdev-guild.github.io",
+      "heading": "WebDev Guild",
       "subhead": "The Web Developers Guild advancement guide",
       "children": [
         {
@@ -63,7 +63,8 @@
           "user": "WebDev-Guild",
           "repo": "webdev-guild.github.io"
         }
-      ]
+      ],
+      "slug": ""
     },
     {
       "component": "article",
