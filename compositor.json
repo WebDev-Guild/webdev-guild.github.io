@@ -64,7 +64,8 @@
           "repo": "webdev-guild.github.io"
         }
       ],
-      "slug": ""
+      "slug": "",
+      "backgroundImage": "https://source.unsplash.com/1600x900/?programming"
     },
     {
       "component": "article",
