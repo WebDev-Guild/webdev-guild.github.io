@@ -1,7 +1,5 @@
 # WebDev Guild
 
-![logo](logo.png)
-
 ## Purpose
 
 The WebDev Guild was started to help teach basic to advanced programming principles to students. The program is designed to be self-taught, hands-on, and guided by a mentorship program. Students learn web development principles to qualify for badges. Each rank will earn the student a reward!
