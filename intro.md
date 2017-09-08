@@ -1,29 +1,37 @@
 # Wanted: Curious Learners
 
-Web development is a pretty comprehensive topic. Unlike other programming practices where you only learn one programming language (like Java or C++), to be a web developer you have to learn three! HTML, CSS, and JavaScript are all essential to being a good web developer. 
+While learning in a classroom is incredibly beneficial, some things require constant learning and practice. Web development is a pretty comprehensive topic. Unlike other programming practices where you only learn one programming language (like Java or C++), to be a web developer you have to learn three! HTML, CSS, and JavaScript are all essential to being a good web developer. Your class would have to be pretty long for you to cover all of those topics!
+
+Because of that, you are encouraged to learn on your own. Read the resources in the WebDev Guild Advancement Guide. Search the interent for answers. Ask questions and talk to a mentor. Look at code that other people have written. Write down what you learn. Share it with others. In other words, the main purpose of the WebDev Guild is learning how to learn. That is the best way to become excellent at anything.
 
 You aren't going to get good overnight. In fact, it will take months and years of study, practice, and experience to become truly capable. You might feel like there is always something more to learn, and you'd be right! Developers are always coming up with new ways to develop for the web, hoping it will become the next big thing.
 
-You might feel like you have to learn everything overnight. That's a normal feeling, but not necessary. In fact, if you try learning too much at once, you might get overwhelmed and give up, and that's the worst thing you can do. Instead, take your learning in byte-sized chunks. Get good at the foundational stuff, then try out some more stuff to see what you like. Eventually, you'll find tools and methods that you really enjoy working with which you can focus your studies on.
+Instead, take your learning in byte-sized chunks. Get good at the foundational stuff, then try out some more stuff to see what you like. With each step, try to make something to demonstrate your current abilities. Try to push yourself. Eventually, you'll find tools and methods that you really enjoy working with which you can focus your studies on.  Everyone has different methods of learning, and everyone enjoys learning different things.  Find what works best for you.
 
-That's the purpose of the Webdev Guild Advancement program. Here, you will find resources and guides on every topic necessary to get started in web development. The hope is that as you learn and get a taste of what is possible, your curiosity will keep you learning and improving.
+That's the purpose of the Webdev Guild Advancement program. Here, you will find resources and guides on every topic necessary to get started in web development. The hope is that as you learn and get a taste of what is possible, your curiosity will keep you learning, improving, and growing.
 
-Chris Pearce recently wrote about [how Webdev is an all-encompasing process](https://medium.com/fed-or-dead/javascript-really-is-overtaking-the-world-5b59b5af41ed). He mentioned things that good front end web developers should be good at:
-> To end, here’s a list of skills, characteristics, disciplines, et cetera, that I think an experienced front end developer should have:
-> - Can write semantic HTML including technologies that extend HTML to make it more machine-readable, for example: WAI-ARIA, Microdata.
-> - Can write CSS at scale.
-> - Can write UI focused JavaScript (preferably ECMAScript 6) including unit tests. I think it’s expecting too much of a front end developer to be able to write high quality application focused JavaScript and to architect and build an application end-to-end, however, you should feel comfortable working in applications consuming RESTful APIs.
-> - Can write highly readable and maintainable code.
-> - Can build highly componentised UI’s, for example, you’re really good at abstracting UI patterns.
-> - Can build responsive, accessible, performant, and resilient (cross-browser/device) UI’s.
-> - Can work with a JavaScript framework/library, such as React. I don’t think this is super critical though, if you have a decent handle on JavaScript and DOM fundamentals then picking one of these up shouldn’t be too hard.
-> - Can work with front end tooling such as: Webpack, Gulp, Babel, ESLint, Stylelint, PostCSS, NPM, Git, Browser dev tools, et cetera.
-> - Has a solid understanding of how browsers work, such as: Critical rendering path.
-> - Has a solid understanding of what makes for good user experiences (UX) and has an appreciation for design.
-> - Has attention to detail.
+WebDev Guild meetings are a great resource too. There, you can get direct instruction and feedback from a multitude of experienced mentors. Sincere feedback, while it may be hard to hear, is always intended to help you overcome weaknesses and mistakes and become better. Take it as a personal invitation to improve.
 
-These are all attributes that I hope you take away from your experience with the Webdev Guild. Most of all, I hope you gain a sense of your own ability to learn and do hard things. 
+A [great educator](https://speeches.byu.edu/talks/henry-b-eyring_child-god/) once said:
+
+> Some learning has been easy for you. But more often your enemy has been discouragement. You may try to avoid that by choosing to learn only what is easy for you, looking for the path of least resistance. But the great learner expects difficulty as part of learning and is determined to work through it.
+
+If you ever get discouraged, this [recent tweet](https://twitter.com/tylermcginnis33/status/854080450637254660) might help. Remember, everyone has to start somewhere. The only difference between you and people that make amazing things is time. Keep at it, keep learning, keep practicing and making mistakes. Eventually, you'll be comfortable enough to make amazing things.
+
+So, to summarize:
+
+- Learn how to learn. Learn to love learning.
+- Take your time. Don't try to become awesome overnight.
+- Celebrate small successes. Accept mistakes and failures and learn from them.
+- Regardless of your abilities, make the best things that you can.
+- Have fun!
+
+These are all things that I hope you take away from your experience with the Webdev Guild. Most of all, I hope you gain a sense of your own ability to learn and do hard things. 
 
 Stay curious, my friends.
 
 *Alex* 
+
+PS. This [developer](https://www.youtube.com/watch?v=OxfJ7xw5hQE) explained her experiences with learning to code and gives some good real-world advice for learning how to code (FYI, there are a few swears at the end).
+
+PPS. This is a [great guide](https://github.com/kamranahmedse/developer-roadmap) to different paths you can take. Be sure take your time and remember that you don't have to learn everything at once.

@@ -17,14 +17,14 @@ We'll discuss how you can easily reference IDs and Classes from CSS in the [CSS 
 - Read the above.
 - Read the extra learning items if you have more questions.
 
-## Assignments
+## Requirements
 
 - Create a webpage with the following:
   - Two elements with different ID tags, with a full page of content in between (use [Lorem Ipsum](http://www.lipsum.com) to generate content)
   - Two elements with the same class
   - Two elements with multiple classes
   - An `<a>` element which references the bottom ID tag. Clicking the `<a>` must successfully focus on the bottom ID tag.
-- Show your webpage to your mentor to pass off this requirement.
+- Show your webpage to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

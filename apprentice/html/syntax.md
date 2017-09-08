@@ -6,13 +6,15 @@ HTML (HyperText Markup Language) was invented by Tim Burners-Lee in 1989. It is 
 
 This badge is fairly simple - learn the language and structure of an HTML document.
 
+## [Video](https://www.youtube.com/watch?v=8RXV32TwmS8)
+
 ## Suggested Learning
 
 - [Anatomy of an HTML Element](https://codepen.io/var-bin/pen/bWQKGW)
 - [Syntax Basics](http://marksheet.io/html-syntax.html)
 - [Best Practices](https://www.w3schools.com/html/html5_syntax.asp) - A list of good and bad ways to write HTML.
 
-## Assignments
+## Requirements
 
 - Create a simple HTML page with the following features:
   - Corret HTML syntax, following best practices
@@ -22,7 +24,7 @@ This badge is fairly simple - learn the language and structure of an HTML docume
   - `title` tag
   - `body` tag
   - tags inside of the `body` tag
-- Show your page to your mentor to pass off this assignment
+- Show your page to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

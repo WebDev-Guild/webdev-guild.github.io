@@ -10,7 +10,7 @@ HTML uses many different tags for rendering different types of elements. For exa
 - [HTML tag list](https://www.w3schools.com/tags/) - All HTML tags, with explanations
 
 
-## Assignments
+## Requirements
 
 - Create an HTML page with at least 15 different tags. Make sure the tags have the correct attributes (if needed). Include the following tags:
     + `<p>`
@@ -22,8 +22,9 @@ HTML uses many different tags for rendering different types of elements. For exa
     + `<img />`
     + `<a>`
 - Explain the difference between `<div>` and `<span>` (You will have to do your own exploration to find the answer to this)
-- Show your work to your mentor to pass off.
+- Show your work to the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 
 - [HTML Tags Cheat Sheet](http://overapi.com/html)
+- [HTML Reference](http://htmlreference.io) - Great resource with lots of examples

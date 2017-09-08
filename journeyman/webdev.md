@@ -12,7 +12,6 @@
 - [ ] [Text Editor](webdev/text-editor.md)
 - [ ] [HTTP APIs](webdev/apis.md)
 - [ ] [SVG](webdev/svg.md)
-- [ ] [DOM API](webdev/dom.md)
 - [ ] [Linux](webdev/linux.md)
 - [ ] [Markdown](webdev/markdown.md)
 

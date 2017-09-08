@@ -1,12 +1,14 @@
 # WebDev Guild
 
-![logo](logo.png)
-
 ## Purpose
 
 The WebDev Guild was started to help teach basic to advanced programming principles to students. The program is designed to be self-taught, hands-on, and guided by a mentorship program. Students learn web development principles to qualify for badges. Each rank will earn the student a reward!
 
 Read the intro: [Wanted: Curious Learners](intro.md)
+
+Get updates on the [blog](blog)
+
+[Guide for Parents](parents.md)
 
 Join the conversation on [Discord](https://discord.gg/PUcnnjV).
 
@@ -30,10 +32,16 @@ Join the conversation on [Discord](https://discord.gg/PUcnnjV).
   - [ ] [React](master/react.md)
   - [ ] [GraphQL](master/graphql.md)
   - [ ] [Databases](master/databases.md)
-  - [ ] [The Cloud](master/cloud.md)
   - [ ] [IOT](master/iot.md)
-  - [ ] [ThreeJS](master/threejs.md)
   - [ ] [Masterpiece](master/masterpiece.md)
+- Electives
+  - [ ] [Design](https://hackdesign.org/lessons)
+  - [ ] [Meteor](electives/meteor.md)
+  - [ ] [The Cloud](electives/cloud.md)
+  - [ ] [ThreeJS](electives/threejs.md)
+  - [ ] Performance
+    - [Apprentice](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/apprentice.md)
+    - [Journeyman](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/journeyman.md)
 
 Want to get started? [Contact a Mentor!](#mentors)
 
@@ -48,7 +56,7 @@ Badges are awarded at the following levels:
 - Master
 
 ### Apprentice 👍
-You are getting your feet wet and gaining basic literacy in a skill category. You will use study materials to prove a basic knowledge of a skill. You will also be proving your ability in that skill through building a micro-project with a very specific and prescriptive set of requirements. As an alternative to building new projects, you may use previous work and a few other options to pass this level's badges.
+You are getting your feet wet and gaining basic literacy in a skill category. You use study materials to prove a basic knowledge of a skill. You also prove your ability in that skill through building a micro-project with a very specific and prescriptive set of requirements. As an alternative to building new projects, you may use previous work and a few other options to pass this level's badges.
 
 ### Journeyman 💪
 You are actively applying your knowledge to produce quality code in new and creative ways. You are also demonstrating your knowledge of advanced concepts in your production code. As an alternative to project work, a developer can use previous project or production work to pass this level's badges. You must have previously completed all Apprentice badges to earn the Journeyman rank.
@@ -60,17 +68,21 @@ The badges provide suggested and required learning resources, assignments, and a
 
 To advance in ranks, you must demonstrate your ability in all of the badges by completing a project. For Apprentice and Journeyman level ranks, the project is assigned to you. For the master level, you will work with your mentor to come up with a masterpiece project that will be both challenging and rewarding. 
 
+The guild also offers content as electives. This content is not required to advance in ranks, however the contents are valuable and could come in handy when working on the rank projects.
+
 -----
 
 ## Mentors
 
 ### Masters
 
-- [Alex Anderson](mailto:alexanderson1993@gmail.com)
+- [Alex Anderson](https://github.com/alexanderson1993)
 
 ### Journeymen
 
-- [Matt Ricks](mailto:mgizmor37@gmail.com)
+- [Matt Ricks](https://github.com/Emrix)
+
+You can contact mentors on [Discord](https://discord.gg/PUcnnjV)
 
 Want to be a mentor? Receive the Apprentice and Journeyman ranks and then file an issue explaining why you think you'd be a good mentor.
 

@@ -32,14 +32,14 @@ As a web developer, you will be spending most of your time in a text editor. The
 - Search for good fonts for programming. 
 - Search for good syntax hiliting coloring schemes.
 
-## Assignments
+## Requirements
 
 * Pick a text editor that you like and install it on your computer.
 * Understand the configuration options. 
 * Install a few packages to improve your text editor.
 * Install a good font and configure your text editor to use it.
 * Install a syntax hiliting coloring scheme and configure your text editor to use it.
-* Show your mentor your setup. Take screenshots, have a video chat, or show them IRL.
+* Take screenshots of your setup and explain it on the `#requirements` Discord channel to show you have passed this requirement off.
 
 ## Extra Learning
 

@@ -14,6 +14,7 @@ Please complete the [Apprentice HTML Badge](html.md) before attempting this badg
 
 - [ ] [Basic CSS](css/basics.md)
 - [ ] [CSS Selectors](css/selectors.md)
+- [ ] [CSS Attributes](css/attributes.md)
 - [ ] [CSS Layout](css/layout.md)
 - [ ] [Flexbox](css/flexbox.md)
 
