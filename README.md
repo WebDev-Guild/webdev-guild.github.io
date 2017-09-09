@@ -17,29 +17,29 @@ Join the conversation on [Discord](https://discord.gg/PUcnnjV).
 ## Badges
 
 - Apprentice
-  - [ ] [WebDev](apprentice/webdev.md) *Start Here*
-  - [ ] [HTML](apprentice/html.md)
-  - [ ] [CSS](apprentice/css.md)
-  - [ ] [JavaScript](apprentice/javascript.md)
-  - [ ] [Project](apprentice/project.md)
+  - [WebDev](apprentice/webdev.md) *Start Here*
+  - [HTML](apprentice/html.md) *Start Here*
+  - [CSS](apprentice/css.md)
+  - [JavaScript](apprentice/javascript.md)
+  - [Project](apprentice/project.md)
 - Journeyman
-  - [ ] [WebDev](journeyman/webdev.md)
-  - [ ] [CSS](journeyman/css.md)
-  - [ ] [JavaScript](journeyman/javascript.md)
-  - [ ] [Node](journeyman/node.md)
-  - [ ] [Project](journeyman/project.md)
+  - [WebDev](journeyman/webdev.md)
+  - [CSS](journeyman/css.md)
+  - [JavaScript](journeyman/javascript.md)
+  - [Node](journeyman/node.md)
+  - [Project](journeyman/project.md)
 - Master
-  - [ ] [React](master/react.md)
-  - [ ] [GraphQL](master/graphql.md)
-  - [ ] [Databases](master/databases.md)
-  - [ ] [IOT](master/iot.md)
-  - [ ] [Masterpiece](master/masterpiece.md)
+  - [React](master/react.md)
+  - [GraphQL](master/graphql.md)
+  - [Databases](master/databases.md)
+  - [IOT](master/iot.md)
+  - [Masterpiece](master/masterpiece.md)
 - Electives
-  - [ ] [Design](https://hackdesign.org/lessons)
-  - [ ] [Meteor](electives/meteor.md)
-  - [ ] [The Cloud](electives/cloud.md)
-  - [ ] [ThreeJS](electives/threejs.md)
-  - [ ] Performance
+  - [Design](https://hackdesign.org/lessons)
+  - [Meteor](electives/meteor.md)
+  - [The Cloud](electives/cloud.md)
+  - [ThreeJS](electives/threejs.md)
+  - Performance
     - [Apprentice](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/apprentice.md)
     - [Journeyman](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/journeyman.md)
 
