@@ -8,6 +8,12 @@
 - Understand JSX
 - Understand how to handle data flow in React
 
+There are a lot of comprehensive guides to React. Following one of these guides will give you plenty of understanding of the principles in the WebDev Guild guide.
+
+- [React Armory](https://reactarmory.com)
+
+You can use the below links to gain a more in-depth understanding.
+
 ## Requirements
 
 - [ ] [React Basics](react/basics.md)
