@@ -1,7 +1,5 @@
 # WebDev Guild
 
-![logo](logo.png)
-
 ## Purpose
 
 The WebDev Guild was started to help teach basic to advanced programming principles to students. The program is designed to be self-taught, hands-on, and guided by a mentorship program. Students learn web development principles to qualify for badges. Each rank will earn the student a reward!
@@ -19,25 +17,31 @@ Join the conversation on [Discord](https://discord.gg/PUcnnjV).
 ## Badges
 
 - Apprentice
-  - [ ] [WebDev](apprentice/webdev.md) *Start Here*
-  - [ ] [HTML](apprentice/html.md)
-  - [ ] [CSS](apprentice/css.md)
-  - [ ] [JavaScript](apprentice/javascript.md)
-  - [ ] [Project](apprentice/project.md)
+  - [WebDev](apprentice/webdev.md) *Start Here*
+  - [HTML](apprentice/html.md) *Start Here*
+  - [CSS](apprentice/css.md)
+  - [JavaScript](apprentice/javascript.md)
+  - [Project](apprentice/project.md)
 - Journeyman
-  - [ ] [WebDev](journeyman/webdev.md)
-  - [ ] [CSS](journeyman/css.md)
-  - [ ] [JavaScript](journeyman/javascript.md)
-  - [ ] [Node](journeyman/node.md)
-  - [ ] [Project](journeyman/project.md)
+  - [WebDev](journeyman/webdev.md)
+  - [CSS](journeyman/css.md)
+  - [JavaScript](journeyman/javascript.md)
+  - [Node](journeyman/node.md)
+  - [Project](journeyman/project.md)
 - Master
-  - [ ] [React](master/react.md)
-  - [ ] [GraphQL](master/graphql.md)
-  - [ ] [Databases](master/databases.md)
-  - [ ] [The Cloud](master/cloud.md)
-  - [ ] [IOT](master/iot.md)
-  - [ ] [ThreeJS](master/threejs.md)
-  - [ ] [Masterpiece](master/masterpiece.md)
+  - [React](master/react.md)
+  - [GraphQL](master/graphql.md)
+  - [Databases](master/databases.md)
+  - [IOT](master/iot.md)
+  - [Masterpiece](master/masterpiece.md)
+- Electives
+  - [Design](https://hackdesign.org/lessons)
+  - [Meteor](electives/meteor.md)
+  - [The Cloud](electives/cloud.md)
+  - [ThreeJS](electives/threejs.md)
+  - Performance
+    - [Apprentice](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/apprentice.md)
+    - [Journeyman](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/journeyman.md)
 
 Want to get started? [Contact a Mentor!](#mentors)
 
@@ -64,19 +68,21 @@ The badges provide suggested and required learning resources, assignments, and a
 
 To advance in ranks, you must demonstrate your ability in all of the badges by completing a project. For Apprentice and Journeyman level ranks, the project is assigned to you. For the master level, you will work with your mentor to come up with a masterpiece project that will be both challenging and rewarding. 
 
+The guild also offers content as electives. This content is not required to advance in ranks, however the contents are valuable and could come in handy when working on the rank projects.
+
 -----
 
 ## Mentors
 
 ### Masters
 
-- [Alex Anderson](mailto:alexanderson1993@gmail.com)
+- [Alex Anderson](https://github.com/alexanderson1993)
 
 ### Journeymen
 
-- [Matt Ricks](mailto:mgizmor37@gmail.com)
+- [Matt Ricks](https://github.com/Emrix)
 
-You can also contact a mentor on [Discord](https://discord.gg/PUcnnjV)
+You can contact mentors on [Discord](https://discord.gg/PUcnnjV)
 
 Want to be a mentor? Receive the Apprentice and Journeyman ranks and then file an issue explaining why you think you'd be a good mentor.
 
