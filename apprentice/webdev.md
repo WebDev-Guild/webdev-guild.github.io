@@ -14,9 +14,7 @@
 ## Requirements
 
 - [ ] [Web Safety](webdev/safety.md) *Start Here*
-- [ ] [Git](webdev/git.md) *Start Here*
-- [ ] [How the Web Works](webdev/web-works.md)
-- [ ] [Terminal](webdev/terminal.md)
+- [ ] [Text Editor](webdev/text-editor.md)
 - [ ] [The DOM](webdev/dom.md)
 
 *Work In Progress*
