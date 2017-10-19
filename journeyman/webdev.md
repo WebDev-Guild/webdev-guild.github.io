@@ -9,10 +9,12 @@
 
 ## Requirements
 
-- [ ] [Text Editor](webdev/text-editor.md)
+- [ ] [Git](webdev/git.md) *Start Here*
 - [ ] [HTTP APIs](webdev/apis.md)
 - [ ] [SVG](webdev/svg.md)
 - [ ] [Linux](webdev/linux.md)
 - [ ] [Markdown](webdev/markdown.md)
+- [ ] [How the Web Works](webdev/web-works.md)
+- [ ] [Terminal](webdev/terminal.md)
 
 *Work In Progress*
