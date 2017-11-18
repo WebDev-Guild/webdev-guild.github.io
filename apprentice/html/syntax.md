@@ -6,6 +6,30 @@ HTML (HyperText Markup Language) was invented by Tim Burners-Lee in 1989. It is 
 
 This badge is fairly simple - learn the language and structure of an HTML document.
 
+## HTML Template
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<style>
+// Paste your CSS code here
+  
+</style>
+</head>
+<body>
+<!-- Paste your HTML code here -->
+  
+  
+<script>
+// Paste your JavaScript code here
+  
+</script>
+</body>
+</html>
+
+```
+
 ## [Video](https://www.youtube.com/watch?v=8RXV32TwmS8)
 
 ## Suggested Learning
